@@ -1,4 +1,4 @@
-# ms4x_flasher
+# mMS4X Flasher Changelog
 **v1.3.0**
 
 - Switched to installers for all supported platforms
