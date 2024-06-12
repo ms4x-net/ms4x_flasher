@@ -1,4 +1,23 @@
 # MS4X Flasher Changelog
+**v1.4.1**
+- Reworked user interface design to more closely follow the Microsoft Fluent design guidelines
+- Fix issue where an arithmetic overflow could occur during writing
+
+**v1.4.0**
+- Migrated to .NET 8
+- Compiled with ReadyToRun for better startup times and responsiveness
+- Updated UI with system theme support
+- All supported baudrates are now also available on Linux
+- Fixed issue where the com ports would duplicate when the user opened the com port list in the menu
+- Refactored error reporting to be more verbose
+- Fixed issue in GS20 read function where the TCU would return corrupt data when reading data across memory segment boundaries
+
+**v1.3.2**
+- Increased retry rates and timeout times to make communication more resilient
+
+**v1.3.1**
+- Added a "Load Licence" button in the settngs tab
+
 **v1.3.0**
 - Switched to installers for all supported platforms
 - Added support for TCUs (SMG2, GS8.60.0, GS8.60.4, GS20)
