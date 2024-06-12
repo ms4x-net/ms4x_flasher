@@ -16,7 +16,7 @@
 - Increased retry rates and timeout times to make communication more resilient
 
 **v1.3.1**
-- Added a "Load Licence" button in the settngs tab
+- Added a "Load Licence" button in the settings tab
 
 **v1.3.0**
 - Switched to installers for all supported platforms
