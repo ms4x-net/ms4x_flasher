@@ -1,6 +1,5 @@
 # MS4X Flasher Changelog
 **v1.3.0**
-
 - Switched to installers for all supported platforms
 - Added support for TCUs (SMG2, GS8.60.0, GS8.60.4, GS20)
 - Moved licence lookup to "C:/ProgramData/MS4x Flasher" or "/var/lib/ms4x-flasher"
