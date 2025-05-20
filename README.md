@@ -1,7 +1,7 @@
 # MS4X Flasher Changelog
 **v1.5.0**
-- Migrated to .NET 9,
-- Refactored reading/writing to better support GS20,
+- Migrated to .NET 9
+- Refactored reading/writing to better support GS20
 - Added GS8.60.0 support
 
 **v1.4.1**
