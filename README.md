@@ -1,4 +1,12 @@
 # MS4X Flasher Changelog
+**v1.6.0**
+- Added GS8.60.2 support for M62TU ZF 5HP gearboxes
+
+**v1.5.1**
+- Fix incorrect binary size check that prevented loading of GS8.60.0 binaries
+- Fix issue with "Load License" dialog on linux systems
+- Updated third-party dependencies to latest versions
+
 **v1.5.0**
 - Migrated to .NET 9
 - Refactored reading/writing to better support GS20
