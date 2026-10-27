@@ -1,4 +1,7 @@
 # MS4X Flasher Changelog
+**v1.6.1**
+- Fixed an issue in GS20 firmware version detection
+
 **v1.6.0**
 - Added GS8.60.2 support for M62TU ZF 5HP gearboxes
 
